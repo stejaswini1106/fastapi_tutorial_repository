@@ -7,4 +7,7 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
+
+# ignore secrets file
+.env
